@@ -1,3 +1,3 @@
 # UX/UI designs
-UX/UI design using sketch, adobe XD, photoshop etc
-https://www.hysonsolutions.com --First UX project to do
+I use sketch, adobe XD, photoshop, illustrator to create UX/UI designs. See:
+https://www.hysonsolutions.com 
