@@ -4,5 +4,5 @@ Using sketch, GIMP, adobe XD, illustrator and many other design tools to create 
 Role: Research, UI Design, Re-Branding & Identity.
 See website: https://www.hysonsolutions.com  
 
-Role: Designer, Editor & Website Manager
-See website  https://bitfarmacia.uk/
+Role: Designer & Editor.
+See website:  https://bitfarmacia.uk/
