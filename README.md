@@ -1,3 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="google-site-verification" content="QcZ8Bkl3bi8rfRzGh2US2C6z6djaIYuVnK4mccn8ZmU" /> </head>
+<meta name="Njeri Olenkere" content="Designs">
+<meta name="keywords" content="design,xd,gimp,sketch,illustrator,wordpress,ux,uigraphic design">
+
+<body></body>
+</html>
+
+
 ## UX/UI Designs and Graphic Designs
 Here you find designs created using sketch, GIMP, adobe XD, illustrator and many other design tools. Using Wordpress and other CMSs to manage and edit websites. HTML, CSS, JavaScript, Java to program systems.
 
